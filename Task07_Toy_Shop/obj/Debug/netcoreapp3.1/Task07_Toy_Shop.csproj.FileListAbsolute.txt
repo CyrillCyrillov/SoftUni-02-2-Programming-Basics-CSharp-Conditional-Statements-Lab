@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Lesson02\Task07_Toy_Shop\obj\Debug\netcoreapp3.1\Task07_Toy_Shop.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Lesson02\Task07_Toy_Shop\obj\Debug\netcoreapp3.1\Task07_Toy_Shop.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Lesson02\Task07_Toy_Shop\obj\Debug\netcoreapp3.1\Task07_Toy_Shop.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Lesson02\Task07_Toy_Shop\obj\Debug\netcoreapp3.1\Task07_Toy_Shop.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Lesson02\Task07_Toy_Shop\bin\Debug\netcoreapp3.1\Task07_Toy_Shop.exe
+C:\Users\Kiril\source\repos\Lesson02\Task07_Toy_Shop\bin\Debug\netcoreapp3.1\Task07_Toy_Shop.deps.json
+C:\Users\Kiril\source\repos\Lesson02\Task07_Toy_Shop\bin\Debug\netcoreapp3.1\Task07_Toy_Shop.runtimeconfig.json
+C:\Users\Kiril\source\repos\Lesson02\Task07_Toy_Shop\bin\Debug\netcoreapp3.1\Task07_Toy_Shop.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Lesson02\Task07_Toy_Shop\bin\Debug\netcoreapp3.1\Task07_Toy_Shop.dll
+C:\Users\Kiril\source\repos\Lesson02\Task07_Toy_Shop\bin\Debug\netcoreapp3.1\Task07_Toy_Shop.pdb
+C:\Users\Kiril\source\repos\Lesson02\Task07_Toy_Shop\obj\Debug\netcoreapp3.1\Task07_Toy_Shop.dll
+C:\Users\Kiril\source\repos\Lesson02\Task07_Toy_Shop\obj\Debug\netcoreapp3.1\Task07_Toy_Shop.pdb
+C:\Users\Kiril\source\repos\Lesson02\Task07_Toy_Shop\obj\Debug\netcoreapp3.1\Task07_Toy_Shop.genruntimeconfig.cache
