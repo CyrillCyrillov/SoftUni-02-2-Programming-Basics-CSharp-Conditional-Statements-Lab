@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Lesson02\Task02_Greater_Number\obj\Debug\netcoreapp3.1\Task02_Greater_Number.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Lesson02\Task02_Greater_Number\obj\Debug\netcoreapp3.1\Task02_Greater_Number.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Lesson02\Task02_Greater_Number\obj\Debug\netcoreapp3.1\Task02_Greater_Number.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Lesson02\Task02_Greater_Number\obj\Debug\netcoreapp3.1\Task02_Greater_Number.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Lesson02\Task02_Greater_Number\bin\Debug\netcoreapp3.1\Task02_Greater_Number.exe
+C:\Users\Kiril\source\repos\Lesson02\Task02_Greater_Number\bin\Debug\netcoreapp3.1\Task02_Greater_Number.deps.json
+C:\Users\Kiril\source\repos\Lesson02\Task02_Greater_Number\bin\Debug\netcoreapp3.1\Task02_Greater_Number.runtimeconfig.json
+C:\Users\Kiril\source\repos\Lesson02\Task02_Greater_Number\bin\Debug\netcoreapp3.1\Task02_Greater_Number.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Lesson02\Task02_Greater_Number\bin\Debug\netcoreapp3.1\Task02_Greater_Number.dll
+C:\Users\Kiril\source\repos\Lesson02\Task02_Greater_Number\bin\Debug\netcoreapp3.1\Task02_Greater_Number.pdb
+C:\Users\Kiril\source\repos\Lesson02\Task02_Greater_Number\obj\Debug\netcoreapp3.1\Task02_Greater_Number.dll
+C:\Users\Kiril\source\repos\Lesson02\Task02_Greater_Number\obj\Debug\netcoreapp3.1\Task02_Greater_Number.pdb
+C:\Users\Kiril\source\repos\Lesson02\Task02_Greater_Number\obj\Debug\netcoreapp3.1\Task02_Greater_Number.genruntimeconfig.cache
