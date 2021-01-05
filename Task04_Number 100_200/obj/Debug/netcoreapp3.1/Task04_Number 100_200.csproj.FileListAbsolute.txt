@@ -1,0 +1,12 @@
+C:\Users\Kiril\source\repos\Lesson02\Task04_Number 100_200\bin\Debug\netcoreapp3.1\Task04_Number 100_200.exe
+C:\Users\Kiril\source\repos\Lesson02\Task04_Number 100_200\bin\Debug\netcoreapp3.1\Task04_Number 100_200.deps.json
+C:\Users\Kiril\source\repos\Lesson02\Task04_Number 100_200\bin\Debug\netcoreapp3.1\Task04_Number 100_200.runtimeconfig.json
+C:\Users\Kiril\source\repos\Lesson02\Task04_Number 100_200\bin\Debug\netcoreapp3.1\Task04_Number 100_200.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Lesson02\Task04_Number 100_200\bin\Debug\netcoreapp3.1\Task04_Number 100_200.dll
+C:\Users\Kiril\source\repos\Lesson02\Task04_Number 100_200\bin\Debug\netcoreapp3.1\Task04_Number 100_200.pdb
+C:\Users\Kiril\source\repos\Lesson02\Task04_Number 100_200\obj\Debug\netcoreapp3.1\Task04_Number 100_200.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Lesson02\Task04_Number 100_200\obj\Debug\netcoreapp3.1\Task04_Number 100_200.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Lesson02\Task04_Number 100_200\obj\Debug\netcoreapp3.1\Task04_Number 100_200.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Lesson02\Task04_Number 100_200\obj\Debug\netcoreapp3.1\Task04_Number 100_200.dll
+C:\Users\Kiril\source\repos\Lesson02\Task04_Number 100_200\obj\Debug\netcoreapp3.1\Task04_Number 100_200.pdb
+C:\Users\Kiril\source\repos\Lesson02\Task04_Number 100_200\obj\Debug\netcoreapp3.1\Task04_Number 100_200.genruntimeconfig.cache
